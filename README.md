@@ -1,6 +1,8 @@
 # Netflix 1990s Movie Analysis 🎬
 
-This project is an **exploratory data analysis (EDA)** of Netflix movies released during the 1990s. The analysis focuses on identifying patterns in movie durations and short action films.![redpopcorn](https://github.com/user-attachments/assets/d275df8f-fd30-4b87-b617-917d50d77087)
+This project is an **exploratory data analysis (EDA)** of Netflix movies released during the 1990s. The analysis focuses on identifying patterns in movie durations and short action films.
+
+![redpopcorn](https://github.com/user-attachments/assets/d275df8f-fd30-4b87-b617-917d50d77087)
 
 ## 📌 Project Goals
 - Determine the most frequent movie duration in the 1990s
